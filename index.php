@@ -8,5 +8,5 @@
  *
  */
 
-phpinfo();
+phpinfo();//1
 ?>
