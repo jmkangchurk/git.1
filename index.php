@@ -8,5 +8,5 @@
  *
  */
 
-phpinfo();//1
+phpinfo();//1 dev1
 ?>
